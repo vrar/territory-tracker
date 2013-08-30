@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Territory Tracker WAR">
+    <wb-module deploy-name="territory-tracker-war">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="track"/>
-        <property name="java-output-path" value="/Territory Tracker WAR/build/classes"/>
+        <property name="java-output-path" value="/territory-tracker-war/build/classes"/>
     </wb-module>
 </project-modules>

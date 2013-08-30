@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="Territory Tracker EAR">
+    <wb-module deploy-name="territory-tracker-ear">
         <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
-        <dependent-module archiveName="Territory_Tracker_WAR.war" deploy-path="/" handle="module:/resource/Territory Tracker WAR/Territory Tracker WAR">
+        <dependent-module archiveName="territory-tracker-war.war" deploy-path="/" handle="module:/resource/territory-tracker-war/territory-tracker-war">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
